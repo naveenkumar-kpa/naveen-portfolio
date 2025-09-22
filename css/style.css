@@ -1,0 +1,14 @@
+body{
+ font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+.banner{
+    background-image: url(/images/banner-background.jpg);
+    padding: 250px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.skills-padding{
+  padding: 70px 0;
+}
